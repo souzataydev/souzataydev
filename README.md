@@ -1,7 +1,7 @@
 ### Olá, eu sou a TAY👋
 
 ### 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzataydev&gorbing&theme=transparent&bg_color=000&border_color=9B2AF2&show_icons=true&icon_color=9B2AF2&title_color=9B2AF2&text_color=2A5FF2)
+
 ### 💻 Formação
 > 👨‍💻 Graduada em Ciência da Computação - (2021)
 
